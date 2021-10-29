@@ -1,0 +1,74 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+    padding:0px;
+    font-family: 'Roboto';
+    font-weight: 300;
+}
+.iti__flag {background-image: url("img/build/img/flags.png");}
+
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  .iti__flag {background-image: url("img/build/img/flags@2x.png");}
+}
+
+.navbar-toggler{
+    color: #a68761 !important;
+}
+
+
+.nav-link{
+    color: #a68761 !important;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 1.5rem 3rem;
+    margin: 0 2rem 0 2rem;
+}
+
+.banner{
+    background-image:url('img/Banner1.png');
+    background-size: cover;
+    height: 300px;
+
+}
+.btn{
+    color:cornsilk;
+    border-radius: 5px;
+    background-color: rgb(136, 90, 58);
+}
+input{
+    width:110%;
+}
+.contactus{
+    border: 1px solid white;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top:120px;
+    letter-spacing: 7px;
+    
+}
+.form-control{
+    margin: 0.75rem;
+    color: black;
+}
+
+input{
+    background-color: black !important;
+}
+
+
+h3{
+font-size: 40px;
+color: white;
+}
+
+.content1{
+    text-align: center;
+    font-weight: 500;
+}
+
+.formdetails{
+    text-align: center;
+    
+
+}
