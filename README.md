@@ -1,1 +1,0 @@
-# AssetMonk_interview_task
